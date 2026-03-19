@@ -1,7 +1,8 @@
 # Identity Lifecycle Management in Microsoft Azure's Entra ID <p align="center">
 
 
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+<img width="797" height="333" alt="image" src="https://github.com/user-attachments/assets/82aa878a-ea4d-4dec-968d-ca03d7bb4776" />
+
 </p>
 
 
@@ -26,12 +27,13 @@ Leaver in Entra ID.<br />
 
 
 <p>
-<img width="1919" height="628" alt="image" src="https://github.com/userattachments/assets/608b84c3-7759-4cd1-be2e-fc14d98a658b" />
+<img width="1805" height="566" alt="image" src="https://github.com/user-attachments/assets/7e18fac9-0d59-4803-b7b8-bc205ade7b30" />
+
 
 
 </p>
 <p>
-User's that have Joined organization.
+All User's that have Joined organization.
 </p>
 <br />
 
@@ -40,10 +42,12 @@ User's that have Joined organization.
 
 
 <p>
-<img width="999" height="764" alt="image" src="https://github.com/userattachments/assets/425ff6e0-6bf2-467a-9de5-7f9f6b64e188" />
+<img width="1071" height="737" alt="image" src="https://github.com/user-attachments/assets/acd66a55-f33d-4a3c-b2c3-6690dade948e" />
+
 
 <p>
-<img width="1024" height="759" alt="image" src="https://github.com/userattachments/assets/c97eaf5f-77f7-4591-9b7f-39647833afe8" />
+<img width="1071" height="710" alt="image" src="https://github.com/user-attachments/assets/902ebf0e-9573-43bd-a9ef-5b7802d22ed1" />
+
 
 
 </p>
@@ -55,7 +59,8 @@ User that has transfered to another department in organization. Went from IT to 
 <h2>Leaver</h2>
 
 <p>
-<img width="1918" height="740" alt="image" src="https://github.com/userattachments/assets/db4ab28a-097b-4861-b38a-033efc63a127" />
+<img width="1739" height="443" alt="image" src="https://github.com/user-attachments/assets/1e2e23eb-02b8-438a-bd25-a5c34d226e04" />
+
 </p>
 <p>
 User that has left the organization.
